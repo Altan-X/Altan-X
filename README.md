@@ -10,4 +10,4 @@ Altan-X/Altan-X is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Hi, I’m @Altan-X (they/them). I'm into Data Science, technology, maps, and gaming. For now I am continuously learning through bootcamps and projects. I will be posting personal projects and other stuff I have worked on.
+👋 Hi, I’m @Altan-X (they/them). I'm into data science, technology, maps, and gaming. For now I am continuously learning through bootcamps and projects. I will be posting personal projects and other stuff I have worked on.
