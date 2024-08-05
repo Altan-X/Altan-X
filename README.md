@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 👀 I'm into data science, technology, maps, and gaming.  
 🌱 For now I am continuously learning through bootcamps and projects. I will be posting personal projects and other stuff I have worked on. I will be focusing on machine learning projects.
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66b02376c3e10bac25fce757?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66b02376c3e10bac25fce757?variant=dark&roadmaps=ai-data-scientist%2Cmlops%2Cdata-analyst%2Cprompt-engineering)](https://roadmap.sh)
